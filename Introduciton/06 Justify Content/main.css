@@ -1,0 +1,41 @@
+/* Brown: #581F18 */
+
+/* Yello: #F0A202 */
+
+/* Orange: #D95D39 */
+
+/* Blue: #202C59 */
+
+/* Green: #51CB20 */
+
+.container {
+    border: 5px solid red;
+}
+
+.box {
+    padding: 30px;
+}
+
+.box1 {
+    background: #581F18;
+}
+
+.box2 {
+    background: #F0A202;
+}
+
+.box3 {
+    background: #D95D39;
+}
+
+.box4 {
+    background: #202C59;
+}
+
+.box5 {
+    background: #51CB20;
+}
+
+.generic {
+    background: #202C59;
+}
